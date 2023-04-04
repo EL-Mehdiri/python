@@ -154,3 +154,16 @@
 #     result = search_google(query)
 #     print(result)
 # the match.group(2) should be replaced with match.group(1)
+
+
+# project
+
+# from datetime import datetime as datettimestamp
+
+# def get_time_stamp():
+#   DATEFORMAT = '%Y%m%d:%H:%M:%S'
+#   dtstamp = datettimestamp.now().strftime(DATEFORMAT)
+#   return dtstamp
+
+# dst = get_time_stamp()
+# print (dst)
